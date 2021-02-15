@@ -1,0 +1,17 @@
+{
+  "name": "ideia-teste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/brunobs1996/ideia-teste.git",
+  "author": "Bruno Berto da Silva <brunobs1996@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^10.0.6",
+    "node": "^15.8.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
